@@ -1,2 +1,1 @@
-This website is still in beta, check my @{ GitHub page }{ https://github.com/ttoommxx } for the latest updates!
-Ciao mamma, la tua app sta per arrivare!
+ciao mamma, sto testando la tua app!
