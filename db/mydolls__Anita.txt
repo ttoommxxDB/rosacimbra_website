@@ -1,0 +1,4 @@
+Nome: Anita
+Type: fake - assemblata
+Body: ob22
+Custom: by me
