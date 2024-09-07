@@ -1,4 +1,0 @@
-Name: Dorothy
-Type: Blythe fake
-Body: Obitsu24
-Custom: Elvira Rosolia
