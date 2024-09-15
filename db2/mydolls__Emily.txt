@@ -1,3 +1,0 @@
-nome: Emily
-tipo: Blythe
-custom: Paola Crespi
