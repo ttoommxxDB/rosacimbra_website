@@ -1,2 +1,2 @@
 Questo maglioncino è adatto a Blythe e bambole con corpo simile
-price=24
+price=24 euro
