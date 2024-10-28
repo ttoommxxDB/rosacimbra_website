@@ -1,1 +1,2 @@
 Questo maglione è adatto a corpo Blythe e simili
+price=24

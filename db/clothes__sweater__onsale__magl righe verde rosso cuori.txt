@@ -1,3 +1,2 @@
 Questo maglioncino veste Blythe e bambole con corpo simile
-
-euro 24,00
+price=24

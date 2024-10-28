@@ -1,3 +1,2 @@
 Questo maglioncino è adatto a Blythe e bambole simili
-
-Euro 24,00
+price=24
