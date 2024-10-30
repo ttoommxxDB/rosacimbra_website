@@ -1,2 +1,3 @@
+SOLDOUT
 Questo maglione è adatto a Blythe e bambole con corpo simile
 price=24 euro
