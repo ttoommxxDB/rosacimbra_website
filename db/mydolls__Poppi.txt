@@ -1,2 +1,4 @@
-Name: x
-Surname: y
+Name: Poppi
+Type: fake Blythe
+Body: Azone S
+Custom Paola Crespi

@@ -1,0 +1,4 @@
+Name: Camilla
+Body: Monst dolls
+Type Pipiton doll
+Custom: no custom
