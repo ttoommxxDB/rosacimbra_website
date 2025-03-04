@@ -1,1 +1,2 @@
 Questi maglioncini sono per bambole di taglia 1/6
+price=18 euro

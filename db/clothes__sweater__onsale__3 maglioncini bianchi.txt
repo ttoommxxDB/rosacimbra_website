@@ -1,1 +1,2 @@
 Adatti a un corpo 1/6
+price= 15 euro
